@@ -32,5 +32,5 @@ All certificates (PDF format) are included in this repository for verification a
 
 ---
 
-📧 **Contact:** shreyaskadlag@example.com  
+📧 **Contact:** shreyaskadlag2606@gmail.com
 🌐 **GitHub:** [github.com/shreyas-kadlag](https://github.com/shreyas-kadlag)
